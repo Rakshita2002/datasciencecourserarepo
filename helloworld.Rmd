@@ -1,9 +1,0 @@
----
-title: "HelloWorld"
-author: "Rakshita Sharma"
-date: "21/06/2021"
-output: word_document
----
-```{r}
-print("Hello World");
-```
